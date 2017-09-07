@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":["double","value","console","log"],"mappings":";;AAAA,IAAMA,SAAS,SAATA,MAAS,CAACC,KAAD,EAAW;AACzB,QAAOA,QAAQ,CAAf;AACA,CAFD;;AAIAC,QAAQC,GAAR,CAAYH,OAAO,CAAP,CAAZ","file":"index.js","sourcesContent":["const double = (value) => {\n\treturn value * 2;\n}\n\nconsole.log(double(5));"]}
