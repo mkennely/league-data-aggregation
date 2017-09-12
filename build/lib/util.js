@@ -26,4 +26,3 @@ function toRes(res) {
     res.status(status).json(thing);
   };
 }
-//# sourceMappingURL=util.js.map

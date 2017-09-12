@@ -5,7 +5,7 @@ const lolapi = new Kindred({
   key: apiKey,
   defaultRegion: REGIONS.NORTH_AMERICA,
   limits: LIMITS.PROD, 
-	debug: true,
+	//debug: true,
 	spread: true,
   showHeaders: true,
   timeout: 10000,
